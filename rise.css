@@ -1,0 +1,21 @@
+/*
+ * this is to void xarray's html output to show the fallback textual representation
+ * see also
+   * xarray.md and 
+   * https://github.com/damianavila/RISE/issues/594
+ */
+ .reveal pre.xr-text-repr-fallback {
+    display: none;
+}
+
+#ooi-logo {
+    background-color: black;
+}
+
+.reveal section img {
+    margin: 0 auto;
+}
+
+.reveal section .io-image {
+    max-height: 800px !important;
+}

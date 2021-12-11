@@ -7,3 +7,8 @@ dependencies:
 - rise
 - jupyter
 - ipykernel
+- matplotlib
+- xarray
+- fsspec
+- zarr
+- s3fs==2021.10.1
