@@ -9,7 +9,7 @@ Repository for OOI Related AGU Presentation by Landung Setiawan
 1. Setup environment
 
     ```bash
-    mamba env create -f .binder/environment.yaml
+    mamba env create -n ooi-agu -f binder/environment.yaml
     ```
 
 2. Activate environment
