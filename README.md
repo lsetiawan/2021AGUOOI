@@ -1,6 +1,6 @@
 # OOI AGU Presentation
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsetiawan/OOI-AGU/main?filepath=20211215_InteractiveOceans.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsetiawan/OOI-AGU/main?filepath=20211214_InteractiveOceans.ipynb)
 
 Repository for OOI Related AGU Presentation by Landung Setiawan
 
